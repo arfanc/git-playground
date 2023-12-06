@@ -1,0 +1,9 @@
+p {
+    background-color: red;
+    border: 1px solid blue;
+    padding: 5px;
+}
+b {
+    background-color: yellow;
+    border: 1px dashed black;
+}
